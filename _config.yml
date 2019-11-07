@@ -1,11 +1,11 @@
 # Site settings
-author: Alex Lee
-title: 
+author: Alex L
+title: Alex does [CODE]
 header-img: img/home-bg.png
 email: hyunho98@gmail.com
-copyright_name: Alex Lee
+copyright_name: Alex L
 description: > # this means to ignore newlines until "baseurl:"
-  
+  10 months of learn.co
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hyunho98
